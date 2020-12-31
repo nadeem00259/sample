@@ -1,6 +1,4 @@
 
-
 hello
-linux
-hiii
+wlcome to linux
 
