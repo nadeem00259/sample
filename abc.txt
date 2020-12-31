@@ -1,6 +1,12 @@
 
+<<<<<<< HEAD
 welcome
 hello
 manali
 cooking
 linux workshop
+=======
+hello
+wlcome to linux
+
+>>>>>>> feature
