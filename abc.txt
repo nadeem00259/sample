@@ -1,3 +1,5 @@
 
 welcome
 hello
+manali
+cooking
